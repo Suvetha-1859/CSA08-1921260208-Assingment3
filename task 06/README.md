@@ -1,7 +1,9 @@
 Task 6 – Nested Data: Railway Timetable
 
 Name: Suvetha S
+
 Register Number: 1921260208
+
 Subject: Python Programming
 
 Aim
